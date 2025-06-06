@@ -32,7 +32,7 @@ O script utilizado para simular os usuários está no arquivo:
 
 Os gráficos abaixo foram capturados diretamente do dashboard da K6 após a execução do teste:
 
-### 🔸 Tempo de Resposta (p95)
+### 🔸 Performance overview
 
 ![Response Time](./evidencias/grafico-response-time.png)
 
