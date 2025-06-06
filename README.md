@@ -41,15 +41,6 @@ Os gráficos abaixo foram capturados diretamente do dashboard da K6 após a exec
 ![Request Rate](./evidencias/grafico-request-rate.png)
 
 
----
-
-## 📄 Relatório Técnico
-
-O relatório completo da execução está disponível no arquivo:
-
-📎 [`Relatorio_Teste_Carga_K6.docx`](./Relatorio_Teste_Carga_K6.docx)
-
----
 
 ## ✅ Conclusão
 
