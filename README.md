@@ -36,7 +36,7 @@ Os gráficos abaixo foram capturados diretamente do dashboard da K6 após a exec
 
 ![Response Time](./evidencias/grafico-response-time.png)
 
-### 🔸 ## Visão Geral do Teste
+### 🔸  Visão Geral do Teste
 
 ![Request Rate](./evidencias/grafico-request-rate.png)
 
